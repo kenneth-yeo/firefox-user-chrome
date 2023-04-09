@@ -4,7 +4,7 @@ url("about:newtab"),
 url("about:privatebrowsing"),
 url("about:firefoxview") {
     body {
-        background: linear-gradient(69deg, rgba(0, 0, 0, 1) 31%, rgba(225, 136, 136, 1) 32%, rgba(225, 0, 0, 1) 32%, rgba(32, 16, 16, 1) 34%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 81%, rgba(32, 16, 16, 1) 90%, rgba(225, 0, 0, 1) 91%, rgba(225, 113, 113, 1) 92%, rgba(0, 0, 0, 1) 92%) !important;
+        background: #090909 !important;
     }
 }
 
